@@ -1,0 +1,11 @@
+void-y-level: 0
+
+cooldown-seconds: 10
+
+messages:
+  teleport: "§aYou have been saved from the void!"
+  cooldown: "§cAntiVoid is on cooldown!"
+  no-permission: "§cYou do not have permission for AntiVoid protection."
+
+sound:
+  enabled: true
