@@ -1,0 +1,11 @@
+name: AntiVoid
+main: AntiVoid\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+description: Teleports players to spawn when falling into the void with cooldown and sound.
+
+permissions:
+  antivoid.use:
+    description: Allows player to be protected from the void
+    default: true
